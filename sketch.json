@@ -1,0 +1,18 @@
+{
+  "cpu": {
+    "fqbn": "arduino:renesas_uno:unor4wifi",
+    "name": "",
+    "type": "serial"
+  },
+  "secrets": [
+    {
+      "name": "SECRET_OPTIONAL_PASS",
+      "value": "12345678"
+    },
+    {
+      "name": "SECRET_SSID",
+      "value": "Rishi"
+    }
+  ],
+  "included_libs": []
+}
