@@ -1,0 +1,22 @@
+{
+  "cpu": {
+    "fqbn": "esp32:esp32:esp32",
+    "name": "",
+    "type": "serial"
+  },
+  "secrets": [
+    {
+      "name": "SECRET_DEVICE_KEY",
+      "value": "975bu#!ndQsza!BC5JJ1C7#ZS"
+    },
+    {
+      "name": "SECRET_OPTIONAL_PASS",
+      "value": "12345678"
+    },
+    {
+      "name": "SECRET_SSID",
+      "value": "Rishi"
+    }
+  ],
+  "included_libs": []
+}
